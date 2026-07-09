@@ -1,0 +1,1 @@
+{"skill":"plan-devex-review","type":"architecture","key":"workspaces-migration","insight":"Unified multi-folder developer repo into npm workspace to improve TTHW from 10 minutes to under 2 minutes.","confidence":10,"source":"user-stated","files":["package.json","scripts/setup.js"],"ts":"2026-07-09T06:27:02.755Z","trusted":true}
